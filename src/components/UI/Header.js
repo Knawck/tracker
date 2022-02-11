@@ -16,7 +16,7 @@ export const Header = () => {
       </button>
       <a class="navbar-brand" href="#">
         <img
-          src="https://cdn-icons.flaticon.com/png/512/781/premium/781831.png?token=exp=1644160074~hmac=8393bb546132ff55113d7deeae8eb37a"
+          src="https://cdn-icons.flaticon.com/png/512/2382/premium/2382307.png?token=exp=1644590024~hmac=a083def7f80b795a71b5b8b87d89d271"
           width="30"
           height="30"
           class="d-inline-block align-top"
